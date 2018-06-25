@@ -1,0 +1,22 @@
+{
+  "name": "push-dispatch-transport-apn",
+  "version": "0.1.0",
+  "description": "A push-dispatch transport for delivering notifications via APNs",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aapierce0/push-dispatch-transport-apn.git"
+  },
+  "author": "Avery Pierce <aapierce0@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aapierce0/push-dispatch-transport-apn/issues"
+  },
+  "homepage": "https://github.com/aapierce0/push-dispatch-transport-apn#readme",
+  "dependencies": {
+    "apn": "^2.2.0"
+  }
+}
